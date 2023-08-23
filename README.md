@@ -1,4 +1,7 @@
 # Hosted link https://ayush19bansal.github.io/game/
+# UI
+![image](https://github.com/Ayush19bansal/game/assets/118842033/b32af76e-a389-4920-868a-429958d2efb8)
+
 
 # HTML
 ![image](https://github.com/Ayush19bansal/game/assets/118842033/8dec6487-6486-4a08-912c-77ee67916e09)
